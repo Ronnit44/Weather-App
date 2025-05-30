@@ -1,14 +1,27 @@
-A weather app built using HTML, CSS, and JavaScript, integrated with the OpenWeather API to fetch and display real-time weather data for any location.
+🌤️A weather app built using HTML, CSS, and JavaScript, integrated with the OpenWeather API to fetch and display real-time weather data for any location.
 
-# Installation:
+🚀 Features
 
-Clone the repository
+- Search for current weather by city name
 
-``git clone https://github.com/Ronnit44/Weather-App.git``
+- Displays temperature and weather conditions.
 
-Navigate to the project directory
+- Clean and responsive UI
 
-`cd Weather-App`
+- Real-time data fetched from the OpenWeatherMap API
 
-Run the index.html file in your preferred browser
+
+---
+
+## 🛠️ Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Ronnit44/Weather-App.git
+cd Weather - App
+```
+Open the index.html file in your preferred browser.
+
+
 
